@@ -1,0 +1,31 @@
+.blog{
+    margin:20px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 23px;
+    max-width: 20%;
+    margin: auto;
+
+}
+.blog input:hover{
+  background-color: antiquewhite;
+}
+.blog button{
+  max-width: 500px;
+}
+.blog:hover {
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in;
+    cursor: pointer;
+    margin-bottom: 50px;
+  }
+
+  .button{
+   
+    max-width: 400px;
+    
+}
+h1:hover{
+  text-decoration: underline;
+  color:red
+}
